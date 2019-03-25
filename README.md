@@ -37,8 +37,15 @@ By joining sales data (as retrieved in question 1) with Customer table attribute
 By calculation correlation among different products in order table, we may have a set of products that are more likely to be bought together. So that we can add the related products under “things you might be interested” section to increase total sales.
 #### 1.3.6.	What product has highest return rate or maximum amount of refunds 
 Refund table data could be retrieved to analyze maximum against a product
- 
-*Figure 2: Refund table to study refunds against a product*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39995308/54904898-e8da5c00-4e9c-11e9-9879-02ebd68841ba.png?raw=true" />
+</p> 
+<br />
+<p align="center">
+<i>
+Figure 2: Refund table to study refunds against a product
+</i>
+</p> 
 
 #### 1.3.7.	What are the top performing products across different platforms?
 Sales data (As achieved by joining product & order table) has an attribute called ‘channel’ that would have values as Store or Online to give top performing products across different products
