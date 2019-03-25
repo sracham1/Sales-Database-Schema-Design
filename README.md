@@ -51,5 +51,14 @@ Figure 2: Refund table to study refunds against a product
 Sales data (As achieved by joining product & order table) has an attribute called ‘channel’ that would have values as Store or Online to give top performing products across different products
 	
 ### 1.4.	DATABASE SCHEMA
- 
-*Figure 3:Database Schema* 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39995308/54905318-fb08ca00-4e9d-11e9-8af2-062a6dbcf0a8.png?raw=true" />
+</p> 
+<br />
+<p align="center">
+<i>
+Figure 3:Database Schema
+</i>
+</p> 
+
+
