@@ -18,7 +18,12 @@ Once the goal has been established, we may want to understand how end users will
 ### 1.3.	IDENTIFYING REQUIRED BUSINESS FACTS
 #### 1.3.1.	What is the percent of total sales for any item, product family, or product class in any month, quarter or year? How does this percent of sales differ from a year ago?
 For any product that has entry in ‘Order_has_Product’ table, By joining Product table for ‘Category’ and Order table’s ‘Shipping address’ (For geographic location ) , ‘transaction_datetime’(for time series) , ‘channel’(online/store – for distribution channel) could be retrieved for analysis purpose.
- 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39995308/54904315-69985880-4e9b-11e9-86c8-a63a2c4f8d48.png?raw=true" />
+</p> 
+<br />
+
 *Figure 1-Total Sales of any item or product category across geographical locations, distribution channels & time of the year*
 
 #### 1.3.2.	What items were most profitable in any month, quarter, or year in any geographic area? 
